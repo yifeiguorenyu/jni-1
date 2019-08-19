@@ -98,8 +98,8 @@ void change4(int *p1, int *p2) {
 //	printf("a的值是 %d,b的值是%d", a, b);
 //	getchar();
 //}
-
-void main(int argc, const char*argv[]) {
-	//
-	getchar();
-}
+//
+//void main(int argc, const char*argv[]) {
+//	//
+//	getchar();
+//}
