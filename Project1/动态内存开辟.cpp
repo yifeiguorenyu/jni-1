@@ -4,6 +4,7 @@
 
 void dynamiclloc() {
 	int* l_p = (int*)(malloc(10 * 1024 * 1024 * (sizeof(int))));
+	free(l_p);
 }
 
 void dtnc() {
