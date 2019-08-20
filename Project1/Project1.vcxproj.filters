@@ -24,5 +24,11 @@
     <ClCompile Include="数组指针.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="函数指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="函数指针1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
