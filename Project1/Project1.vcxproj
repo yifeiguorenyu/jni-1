@@ -118,6 +118,7 @@
     <ClCompile Include="动态开辟内存实用.cpp" />
     <ClCompile Include="字符串.cpp" />
     <ClCompile Include="字符l串与生成随机数.cpp" />
+    <ClCompile Include="字符串1.cpp" />
     <ClCompile Include="数组指针.cpp" />
     <ClCompile Include="函数指针1.cpp" />
     <ClCompile Include="内存开辟.cpp" />

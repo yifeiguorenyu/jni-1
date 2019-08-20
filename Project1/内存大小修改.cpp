@@ -3,7 +3,7 @@
 
 
 //改变内存大小 realloc 
-void main() {
+void main09() {
 	int num;
 	printf("请输入数的个数");
 	scanf_s("%d", &num);
