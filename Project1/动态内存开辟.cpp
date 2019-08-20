@@ -18,7 +18,7 @@ void dtnc() {
 }
 
 
-void main() {
+void mainbb() {
 	dtnc();
 	getchar();
 }
