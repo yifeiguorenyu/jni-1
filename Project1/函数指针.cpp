@@ -36,7 +36,7 @@ void compress(char * file_name,void(callback)(int,int)) {
 }
 
 //监听数据的压缩和 回调
-void main() {
+void main88() {
 	void (*call_p)(int, int) = call_back;
 	compress("", call_p);
 	getchar();

@@ -30,5 +30,17 @@
     <ClCompile Include="函数指针1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符l串与生成随机数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="内存开辟.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="动态内存开辟.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
