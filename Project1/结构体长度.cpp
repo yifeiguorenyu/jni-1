@@ -10,7 +10,7 @@ struct Worker
 	int age;
 	double sarlary;  //double 为 8
 };
-void main() {
+void main1q() {
 	//1 按照最大的字节去结算
 	//2 算得时候,只会按照基本的数据类型去算
 	//3 能够除以最大字节的整数倍

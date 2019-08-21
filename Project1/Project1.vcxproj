@@ -74,6 +74,7 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
@@ -122,11 +123,20 @@
     <ClCompile Include="数组指针.cpp" />
     <ClCompile Include="函数指针1.cpp" />
     <ClCompile Include="内存开辟.cpp" />
+    <ClCompile Include="文件写入.cpp" />
+    <ClCompile Include="文件复制.cpp" />
+    <ClCompile Include="文件操作.cpp" />
+    <ClCompile Include="文件的加密.cpp" />
+    <ClCompile Include="枚举的使用.cpp" />
     <ClCompile Include="结构体.cpp" />
+    <ClCompile Include="结构体别名.cpp" />
     <ClCompile Include="结构体嵌套.cpp" />
     <ClCompile Include="结构体数组.cpp" />
     <ClCompile Include="结构体长度.cpp" />
+    <ClCompile Include="结构体长度结算.cpp" />
     <ClCompile Include="结构指针.cpp" />
+    <ClCompile Include="联和体.cpp" />
+    <ClCompile Include="获取文件的大小.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
