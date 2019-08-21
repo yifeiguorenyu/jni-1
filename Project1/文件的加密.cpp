@@ -3,7 +3,7 @@
 #include <string.h>
 
 
-void main() {
+void mainencry() {
 	char* filename = "F:\\abc.jpeg";
 	char*fileencrpyname = "F:\\efg.jpeg";
 

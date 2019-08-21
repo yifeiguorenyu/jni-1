@@ -119,11 +119,14 @@
     <ClCompile Include="字符串.cpp" />
     <ClCompile Include="字符l串与生成随机数.cpp" />
     <ClCompile Include="字符串1.cpp" />
+    <ClCompile Include="字符串密码进行加密.cpp" />
+    <ClCompile Include="字符串密码进行解密.cpp" />
     <ClCompile Include="字符串操作.cpp" />
     <ClCompile Include="数组指针.cpp" />
     <ClCompile Include="函数指针1.cpp" />
     <ClCompile Include="内存开辟.cpp" />
     <ClCompile Include="文件写入.cpp" />
+    <ClCompile Include="文件加密修改一部分.cpp" />
     <ClCompile Include="文件复制.cpp" />
     <ClCompile Include="文件操作.cpp" />
     <ClCompile Include="文件的加密.cpp" />
