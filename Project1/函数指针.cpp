@@ -1,4 +1,4 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 
 void init1() {
 	int num = 12;
@@ -27,15 +27,15 @@ void init11() {
 }
 
 void call_back(int current,int total) {
-	printf("Ñ¹ËõµÄ½ø¶ÈÊÇ %d %d", current, total);
+	printf("å‹ç¼©çš„è¿›åº¦æ˜¯ %d %d", current, total);
 }
 
-//Ñ¹ËõµÄ·½·¨
+//å‹ç¼©çš„æ–¹æ³•
 void compress(char * file_name,void(callback)(int,int)) {
 	callback(12, 44);
 }
 
-//¼àÌıÊı¾İµÄÑ¹ËõºÍ »Øµ÷
+//ç›‘å¬æ•°æ®çš„å‹ç¼©å’Œ å›è°ƒ
 void main88() {
 	void (*call_p)(int, int) = call_back;
 	compress("", call_p);
