@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="simple.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="二级指针.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -49,6 +46,24 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="字符串1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体嵌套.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="结构指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体长度.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

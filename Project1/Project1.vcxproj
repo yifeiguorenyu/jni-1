@@ -110,7 +110,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="simple.cpp" />
     <ClCompile Include="二级指针.cpp" />
     <ClCompile Include="内存大小修改.cpp" />
     <ClCompile Include="函数指针.cpp" />
@@ -119,9 +118,15 @@
     <ClCompile Include="字符串.cpp" />
     <ClCompile Include="字符l串与生成随机数.cpp" />
     <ClCompile Include="字符串1.cpp" />
+    <ClCompile Include="字符串操作.cpp" />
     <ClCompile Include="数组指针.cpp" />
     <ClCompile Include="函数指针1.cpp" />
     <ClCompile Include="内存开辟.cpp" />
+    <ClCompile Include="结构体.cpp" />
+    <ClCompile Include="结构体嵌套.cpp" />
+    <ClCompile Include="结构体数组.cpp" />
+    <ClCompile Include="结构体长度.cpp" />
+    <ClCompile Include="结构指针.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
