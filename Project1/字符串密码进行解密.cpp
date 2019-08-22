@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-void main() {
+void maindecryt() {
 	char * password = "123456"; //轮流进行^操作
 
 	char* fileencryname = "F:\\efg.jpeg";

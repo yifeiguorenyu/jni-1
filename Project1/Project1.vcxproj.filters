@@ -102,5 +102,8 @@
     <ClCompile Include="字符串密码进行解密.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="文件的切割.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -7,7 +7,7 @@ void mainen() {
 	char*  filename = "F:\\abc.jpeg";
 	char* fileencryname = "F:\\efg.jpeg";
 	FILE * file = fopen(filename, "rb");
-	FILE * encryfile = fopen(fileencryname, "wb");
+	FILE * encryfile = fopen(fileencryname, "wb"); //wb 新建一个文件 0 KB 
 
 
 

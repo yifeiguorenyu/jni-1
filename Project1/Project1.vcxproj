@@ -129,6 +129,7 @@
     <ClCompile Include="文件加密修改一部分.cpp" />
     <ClCompile Include="文件复制.cpp" />
     <ClCompile Include="文件操作.cpp" />
+    <ClCompile Include="文件的切割.cpp" />
     <ClCompile Include="文件的加密.cpp" />
     <ClCompile Include="枚举的使用.cpp" />
     <ClCompile Include="结构体.cpp" />
